@@ -4,6 +4,7 @@ with open("testData.txt", "r") as input:
 
 rows = data.split()
 
+# Test change
 
 ###################### Part 1 #######################
 # def checkVisible(previous,curr):
